@@ -1,10 +1,10 @@
 {
   "name": "lets-icons",
   "version": "1.0.0",
-  "description": "A gorgeous set of icons for any use",
+  "description": "A stunning collection of icons for any use",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/BoogieMonsta/lets-icons.git"
   },
   "author": "Leonid Tsvetkov <mailto:ntrtd@yandex.com> (ntrtd@yandex.com)",
   "license": "CC BY 4.0",
